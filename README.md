@@ -1,8 +1,10 @@
 
 # TwoDee
 
-
 The ultimate test of multitasking – drive two cars simultaneously, avoid squares, and collect circles to score big!
+
+<img src="https://github.com/ankursinghbisht/TwoDee/assets/112644477/3d8bc671-82f9-4223-94fe-97f8a504bb2f" alt="image" width="600"/>
+
 ## Introduction
 
 TwoDee is an  deceptively simple mobile game that tests your multitasking skills and reflexes. Inspired by the classic __Two Cars__ ,TwoDee challenges you to control not one, but two cars simultaneously. Your objective is clear: avoid colliding with squares and collect circles to score points. It's a game of coordination, timing, and precision.
@@ -45,6 +47,12 @@ To get started with Cubicle, follow these simple steps:
 - Tap the TwoDee icon to start the game.
     
 ## Screenshots
+<img src="https://github.com/ankursinghbisht/TwoDee/assets/112644477/7ee67365-daed-42fb-8ffc-92047303136c" alt="image" width="300"/>
+<img src="https://github.com/ankursinghbisht/TwoDee/assets/112644477/4220853f-78d5-4556-b37f-02b79c8f92c8" alt="image" width="300"/>
+<br>
+<img src="https://github.com/ankursinghbisht/TwoDee/assets/112644477/8a8df826-383a-42dd-93c5-906fd9fb70a9" alt="image" width="300"/>
+<img src="https://github.com/ankursinghbisht/TwoDee/assets/112644477/1b0bbf63-806f-4764-b5e5-4da359141018" alt="image" width="300"/>
+
 
 
 
